@@ -1,0 +1,4 @@
+cobbler
+=======
+
+kickstarts, snippets, etc.
